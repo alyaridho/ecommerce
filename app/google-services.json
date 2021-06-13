@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "803016177063",
+    "firebase_url": "https://ecommerce-7a634.firebaseio.com",
+    "project_id": "ecommerce-7a634",
+    "storage_bucket": "ecommerce-7a634.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803016177063:android:974b15eac8ddaf2abdb282",
+        "android_client_info": {
+          "package_name": "com.android.praktikum.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803016177063-ni18cq130iaithjlr3vulkvjh77b1t1j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.praktikum.ecommerce",
+            "certificate_hash": "d4c039734315d084a0f3413048e56039d1b7812a"
+          }
+        },
+        {
+          "client_id": "803016177063-r8t5lk5qfkqntepqep427pur7k2d3k2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0Oj9FLTxx0Zsj1nvoYV_veVof5NGjpCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803016177063-r8t5lk5qfkqntepqep427pur7k2d3k2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
